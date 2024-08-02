@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/table">
+        <file>images/delete.png</file>
+        <file>images/hide.png</file>
+    </qresource>
+</RCC>
